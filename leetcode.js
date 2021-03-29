@@ -1,4 +1,14 @@
 
+//Write a recursive function called replicate which will receive arguments times and number.The function should return an array containing repetitions of the number argument. For instance, replicate(3, 5) should return [5,5,5]. If the times argument is negative, return an empty array.
+
+
+// function replicate(times, number){
+//   if(times <= 0) return [];
+//   return [number, ...replicate(times-1, number)]
+// }
+//
+// console.log(replicate(3, 5))
+// should return [5, 5, 5]
 
 
 // Write a function that makes this string uppercase and sorts it in alphabetical order by last name.When the last names are the same, sort them by first name. Last name and first name of a guest come in the result between parentheses separated by a comma.
