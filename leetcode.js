@@ -1,3 +1,4 @@
+//Add a function that capitalizes every first letter of a string
 
 //Write a function that removes all the vowels from a string.
 //
