@@ -1,4 +1,10 @@
 
+//Write a function that removes all the vowels from a string.
+//
+// const removeVowel = (str) => str.replace(/[aeiou]/gi, '')
+//
+// console.log(removeVowel('LOL'))
+
 
 // Write a function that returns a list of strings in an array in reverse order.Ex: '123'   ==>  ['321', '21', '1']
 
