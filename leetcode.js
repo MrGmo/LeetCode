@@ -1,4 +1,32 @@
-//Add a function that capitalizes every first letter of a string
+// Given an array consisting of n integers, find the contiguous subarray of given length k that has the maximum average value. And you need to output the maximum average value.
+//
+// Example 1:
+//
+// Input: [1,12,-5,-6,50,3], k = 4
+// Output: 12.75
+// Explanation: Maximum average is (12-5-6+50)/4 = 51/4 = 12.75
+
+// function avgSumArr(arr, num){
+//     let maxSum = 0
+//     let tempSum = 0
+// 
+//     if(num > arr.length){
+//       return null;
+//     }
+//
+//     for(let i = 0; i < num; i++){
+//       maxSum += arr[i]
+//     }
+//
+//     tempSum = maxSum
+//     for(let j = num; j < arr.length; j++){
+//       tempSum = tempSum - arr[j - num] + arr[j]
+//       maxSum = Math.max(maxSum, tempSum)
+//     }
+//       return maxSum/num
+//   }
+//
+// console.log(avgSumArr([1, 12, -5, -6, 50, 2], 4))
 
 //Write a function that removes all the vowels from a string.
 //
