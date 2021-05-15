@@ -2,7 +2,7 @@
 
 Hi there!
 
-This repo is comprised of some of the LeetCode I've completed. I have divided them into separate folders based on difficulty. I realized that posting my solutions might be helpful to new devs so going forward I will post all my solutions on here.
+This repo is comprised of some of the LeetCode I've completed. I have divided them into separate folders based on difficulty. I realized that posting my solutions might be helpful to new devs so going forward I will post all my solutions here.
 
 Check out some of the other coding challenges I've completed:
 
